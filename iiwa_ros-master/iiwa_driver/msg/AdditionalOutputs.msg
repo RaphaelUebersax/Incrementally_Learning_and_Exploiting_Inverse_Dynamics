@@ -1,4 +1,0 @@
-Header header
-std_msgs/Float64MultiArray external_torques
-std_msgs/Float64MultiArray commanded_torques
-std_msgs/Float64MultiArray commanded_positions
